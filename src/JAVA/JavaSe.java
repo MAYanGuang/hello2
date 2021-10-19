@@ -50,3 +50,11 @@ public class JavaSe {
      *
      * */
 }
+echo "# Interviews" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote rm origin
+git remote add origin https://github.com/MAYanGuang/Interviews.git
+git push -u origin main
