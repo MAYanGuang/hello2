@@ -6,7 +6,7 @@ package JAVA;
  */
 public class JavaSe {
     /**
-     * JDK JRE JVM
+     * 1 JDK JRE JVM
      *  JDK   (Java Development Kit)  java开发工具包  这个工具包的版本1.2 ~ 版本 1.4 被称为 Java SDK
      *  JRE   (Java runtime environment) java运行环境
      *  JVM   (Java Virtual Machine) java虚拟机
@@ -49,4 +49,7 @@ public class JavaSe {
      *
      *
      * */
+    /**
+     *  2
+     */
 }
